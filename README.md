@@ -1,4 +1,6 @@
 Fact Data Modeling
+
+
 Welcome to my Fact Data Modeling SQL project! This repository contains SQL scripts that demonstrate key concepts used in data engineering and analytics, specifically fact data modeling.
 
 What Is Fact Data Modeling?
