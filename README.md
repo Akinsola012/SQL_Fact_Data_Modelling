@@ -1,0 +1,2 @@
+# SQL_Fact_Data_Modelling
+user_device_browser_events_fact
